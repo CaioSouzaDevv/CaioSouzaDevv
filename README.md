@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Caio Souza 
 
 - 🔭 Atualmente estou terminando os estudos, irei ingressar na área em breve.
-- 🌱 Estudante de Análise e desenvolvimento de sistemas.
+- 🌱 Formado em Análise e desenvolvimento de sistemas.
 - 👯 Atualmente atuo como desenvolvedor Front End JR
 - 😄 Pronouns: Ele/Dele
 - ✨ Meu Portfólio : https://caiosouzadevv.com
