@@ -3,7 +3,6 @@
 - 🔭 Atualmente estou terminando os estudos, irei ingressar na área em breve.
 - 🌱 Formado em Análise e desenvolvimento de sistemas.
 - 👯 Atualmente atuo como desenvolvedor Front End JR
-- 😄 Pronouns: Ele/Dele
 - ✨ Meu Portfólio : https://caiosouzadevv.com
 <div align="center">
   <a href="https://github.com/CaioSouzaDevv">
