@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou terminando os estudos, irei ingressar na área em breve.
 - 🌱 Formado em Análise e desenvolvimento de sistemas.
 - 👯 Atualmente atuo como desenvolvedor Front End JR
-- ✨ Meu Portfólio : https://caiosouzadevv.com
+- ✨ Meu Portfólio : https://caiosouzadevv.com.br
 <div align="center">
   <a href="https://github.com/CaioSouzaDevv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioSouzaDevv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
