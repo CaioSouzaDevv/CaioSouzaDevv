@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Caio Souza 
 
-- 🔭 Atualmente estou terminando os estudos, irei ingressar na área em breve.
+- 🔭 Olá! Me chamo Caio, tenho 24 anos e sou movido por tecnologia e criatividade. Sou formado em Análise e Desenvolvimento de Sistemas e atuo há mais de dois anos como Desenvolvedor Front-End. Nesse tempo, participei da criação e evolução de diversos sites, sempre focado em entregar interfaces intuitivas, modernas e de alta performance. Gosto de aprender coisas novas, trabalhar em equipe e transformar ideias em experiências digitais reais.
 - 🌱 Formado em Análise e desenvolvimento de sistemas.
 - 👯 Atualmente atuo como desenvolvedor Front End JR
 - ✨ Meu Portfólio : https://caiosouzadevv.com.br
