@@ -1,5 +1,5 @@
 ### Olá!! Eu sou o Caio Souza 
-<span style="color:red;">### Todos os repositórios possuem links para serem visualizados na documentação. </span>
+<span style="text-align:center;">### Todos os repositórios possuem links para serem visualizados na documentação. </span>
 
 - 🔭 Olá! Me chamo Caio, tenho 25 anos e sou movido por tecnologia e criatividade. Sou formado em Análise e Desenvolvimento de Sistemas e atuo há mais de três anos como Desenvolvedor Front-End. Nesse tempo, participei da criação e evolução de diversos sites, sempre focado em entregar interfaces intuitivas, modernas e de alta performance. Gosto de aprender coisas novas, trabalhar em equipe e transformar ideias em experiências digitais reais.
 - 🌱 Formado em Análise e desenvolvimento de sistemas.
