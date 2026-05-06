@@ -43,7 +43,7 @@ Ao longo da minha trajetória participei da construção e manutenção de siste
   <img alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </p>
-```
+
 
 <br/>
 
