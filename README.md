@@ -14,22 +14,42 @@ Ao longo da minha trajetória participei da construção e manutenção de siste
 * 📚 Estudando constantemente Front-End, Arquitetura e Back-End Java
 * 🚀 Focado em evolução profissional e construção de projetos sólidos
 <br/>
+```html
 ## 🚀 Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Caio-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Caio-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Caio-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Caio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Caio-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Caio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Caio-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-</div>
+<div align="center" style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center;">
 
-<br/>
+<img align="center" alt="Caio-HTML" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+<img align="center" alt="Caio-CSS" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img align="center" alt="Caio-JS" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<img align="center" alt="Caio-TypeScript" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+
+<img align="center" alt="Caio-Angular" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+
+<img align="center" alt="Caio-React" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<img align="center" alt="Caio-Java" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<img align="center" alt="Caio-MySQL" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
+<img align="center" alt="Caio-PHP" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+
+<img align="center" alt="Caio-Bootstrap" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+
+</div>
 <br/>
 
 ## 📫 Contato
