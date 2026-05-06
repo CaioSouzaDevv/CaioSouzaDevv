@@ -14,8 +14,7 @@ Ao longo da minha trajetória participei da construção e manutenção de siste
 * 📚 Estudando constantemente Front-End, Arquitetura e Back-End Java
 * 🚀 Focado em evolução profissional e construção de projetos sólidos
 <br/>
-```html
-```html
+
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
