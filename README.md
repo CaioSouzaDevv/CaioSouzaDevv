@@ -1,12 +1,17 @@
 # Olá! Eu sou o Caio Souza 👋
 
-🚀 Desenvolvedor Front-End apaixonado por tecnologia, interfaces modernas e construção de soluções reais.
+🚀 Desenvolvedor de Software com mais de 3 anos de experiência em aplicações web, sistemas corporativos e soluções voltadas ao setor financeiro.
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atuo há mais de 3 anos na área de tecnologia. Atualmente trabalho em uma fintech, participando do desenvolvimento e evolução de aplicações voltadas para produtos financeiros, integrações e experiência do usuário.
+Atualmente atuo em ambiente fintech, participando do desenvolvimento e sustentação de aplicações internas, integrações entre sistemas, automações e soluções relacionadas a produtos financeiros, crédito e meios de pagamento.
 
-Tenho experiência com desenvolvimento Front-End utilizando Angular, React, JavaScript e TypeScript, além de também atuar em projetos e integrações com Java no back-end.
+Experiência com React, Angular, JavaScript, TypeScript, HTML5, CSS3 e atuação integrada com back-end em Java, APIs REST, webhooks e PostgreSQL.
 
-Ao longo da minha trajetória participei da construção e manutenção de sistemas web, melhorias de performance, responsividade, integrações entre serviços e desenvolvimento de soluções internas voltadas para automação e comunicação.
+Participação no ciclo completo de desenvolvimento, incluindo alinhamentos técnicos e funcionais, troubleshooting, homologações, deploys e sustentação de aplicações em produção.
+
+Também participo de discussões sobre arquitetura, processamento de eventos, barramento de dados e soluções escaláveis para sistemas corporativos.
+
+Tecnologias e conhecimentos:
+React • Angular • Java • JavaScript • TypeScript • PostgreSQL • APIs REST • Webhooks • Git • Integrações • Troubleshooting • Sistemas Corporativos
 
 * 💻 Desenvolvedor Front-End
 * 🏦 Atualmente atuando em uma fintech
